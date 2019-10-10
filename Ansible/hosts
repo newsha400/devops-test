@@ -1,0 +1,7 @@
+[app-servers]
+app1
+app2
+
+[nginx-servers]
+ngnx1
+ngnx2
